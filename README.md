@@ -1,6 +1,8 @@
-# Website
+# "Holodori" Unofficial Wiki
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+## Disclaimer
+
+This is an independent, unofficial project. It is not affiliated with, sponsored by, endorsed by, or supported by Cover Corp, Hololive or QualiArts, Inc. It can be used with or that this repository mentions. All trademarks and product names belong to their owners and are used only to describe interoperability. No such owner has reviewed or approved this or has any responsibility for it.
 
 ## Installation
 
@@ -25,19 +27,3 @@ npm run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true npm run deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> npm run deploy
-```
-
-If you are using GitHub Pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
