@@ -8,6 +8,9 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+
+  flex: 1;
+  background: url('/img/gambling.png') center;
 }
 
 @media screen and (max-width: 996px) {
@@ -20,4 +23,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.container {
+  flex: 1;
 }

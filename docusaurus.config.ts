@@ -69,15 +69,15 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/gambling.jpg',
     colorMode: {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: 'PokojanFR',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'PokojanFR',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -87,25 +87,11 @@ const config: Config = {
           label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/KoukiFactori/holodori-wiki',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
         {
           title: 'Community',
           items: [
@@ -113,11 +99,6 @@ const config: Config = {
               label: 'Discord',
               href: 'https://discord.gg/hololivefr',
             },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
             {
               label: 'GitHub',
               href: 'https://github.com/KoukiFactori/holodori-wiki',
@@ -125,7 +106,6 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
