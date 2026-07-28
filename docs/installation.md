@@ -12,7 +12,7 @@ Il est néanmoins possible d'installer le jeu en utilisant un compte associé à
 
 ## Android
 
-Sur Android, la méthode consiste à utiliser un second compte Google créé avec une connexion localisée aux États-Unis afin d'accéder au Google Play Store américain.
+Sur Android, une solution consiste à utiliser un second compte Google créé avec une connexion localisée aux États-Unis afin d'accéder au Google Play Store américain. (Ou n'importe quel autre pays où le jeu est disponible)
 
 1. Téléchargez un VPN proposant une connexion aux **États-Unis**.
 2. Activez le VPN et connectez-vous à un serveur situé aux États-Unis.
