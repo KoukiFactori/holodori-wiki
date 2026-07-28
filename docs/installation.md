@@ -10,6 +10,19 @@ hololive Dreams n'est pas disponible sur les stores français. En essayant d'acc
 
 Il est néanmoins possible d'installer le jeu en utilisant un compte associé à une région dans laquelle il est disponible.
 
+## Android
+
+Sur Android, l'une des méthodes consiste à utiliser un second compte Google créé avec une connexion localisée aux États-Unis afin d'accéder au Google Play Store américain.
+
+1. Télécharger un VPN proposant une connexion aux **États-Unis**.
+2. Activer le VPN et se connecter à un serveur situé aux États-Unis.
+3. Tant que le VPN est actif, créer un nouveau compte Google.
+4. Sur votre appareil Android, ouvrir le **Google Play Store**, ajouter ce nouveau compte Google et vous y connecter.
+5. Depuis un navigateur, en gardant le VPN activé, aller sur le [Google Play Store](https://play.google.com/) et se connecter avec ce même compte.
+6. Rechercher "hololive Dreams" : le jeu devrait alors apparaître comme disponible.
+7. Cliquer sur **Installer**, puis sélectionner l'appareil Android sur lequel vous souhaitez installer le jeu. L'installation se lancera automatiquement sur celui-ci.
+8. Une fois l'installation terminée, il ne reste plus qu'à lancer le jeu depuis votre appareil.
+
 ## iOS
 
 Sur iOS, la méthode consiste à utiliser un second compte Apple associé aux États-Unis pour accéder à l'App Store américain.
