@@ -39,7 +39,7 @@ Note: Le classement n'est pas réinitialisé entre les périodes.
 
 **Instant maths:**  
 Avec quelques parties servant de données, il est très vite possible de retrouver la formule utilisée pour calculer tous les `Ratings`.
-Le système actuel attribue **100 Rate** par tranche de **500k points**. On obtient alors la formule suivante: $1\text{ Point} = 0.0002 \text{ Rate}$.
+Le système actuel attribue **100 Rate** par tranche de **500k points**. On obtient alors la formule suivante: **1 Point = 0.0002 Rate**.
 
 | Score     | Rate |
 |-----------|------|
