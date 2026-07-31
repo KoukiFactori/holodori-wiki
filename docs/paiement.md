@@ -14,7 +14,7 @@ Si vous êtes dans ce cas, la marche à suivre ci-dessous permet de vérifier et
 
 1. Allez dans les paramètres du compte Google que vous avez créé.
 2. Ouvrez l'onglet **Données et confidentialité**, puis descendez jusqu'à la section **Outils** et cliquez sur **Google Dashboard**.
-3. Dans le Dashboard, vérifiez que vous êtes bien localisé dans le pays où vous avez créé le compte Gmail avec le VPN.
+3. Dans le Dashboard, vérifiez que vous êtes bien localisé dans le pays où vous avez créé le compte Google avec le VPN.
 4. Si ce n'est pas le cas, regardez si Google vous propose de changer de pays en ajoutant une méthode de paiement.
 
 ## Corriger le profil de paiement
